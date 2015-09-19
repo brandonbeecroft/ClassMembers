@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor whiteColor];
+    // This code change doesn't make sense, please consider changing.
     self.navigationItem.title = @"Whatever";
 }
 
